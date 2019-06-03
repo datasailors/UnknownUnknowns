@@ -6,7 +6,7 @@ This repo contains sample code for updating Deep Learning models with particle f
 
 Details on how to run the notebook are given below, in the Implementation section.
 
-Implementation: depend-on-docker
+## Implementation: depend-on-docker
 Depend on Docker, a.k.a as {Do}, is an easy to use project template that helps start working quickly on any of your projects. It lets you embed the knowledge you have about your software into a container that hides away complexities and makes it easy to build, ship, and run on Linux or Windows, locally, in a data center, and on any cloud. To accomplish all of it, the only dependency you need is Docker!
 
 Knowing that we don't want to have to set-up the environment for building probabilistic models every time we mode to a different machine, we've package all the necessary dependencies - chiefly Tensorflow and Tensorflow Probability - into our image. Running the Jupyter notebooks become very simple: ./run.sh will get you your own Jupyter Notebook server! After that, simply open Chrome and browse to http://localhost:5555.
