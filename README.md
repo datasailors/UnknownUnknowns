@@ -1,6 +1,7 @@
 # UnknownUnknowns
 
-Particle Filter Based Model Updating using Tensorflow Probability
+## Particle Filter Based Model Updating using Tensorflow Probability
+
 This repo contains sample code for updating Deep Learning models with particle filters.
 
 Details on how to run the notebook are given below, in the Implementation section.
